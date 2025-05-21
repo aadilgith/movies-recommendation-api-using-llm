@@ -1,0 +1,60 @@
+
+{
+  candidates: [
+    {
+      content: [Object],
+      finishReason: 'STOP',
+      citationMetadata: [Object],
+      avgLogprobs: -0.010396634207831488
+    }
+  ],
+  usageMetadata: {
+    promptTokenCount: 34,
+    candidatesTokenCount: 450,
+    totalTokenCount: 484,
+    promptTokensDetails: [ [Object] ],
+    candidatesTokensDetails: [ [Object] ]
+  },
+  modelVersion: 'gemini-2.0-flash',
+  text: [Function (anonymous)],
+  functionCall: [Function (anonymous)],
+  functionCalls: [Function (anonymous)]
+}
+
+[
+  {
+    "title": "The Shawshank Redemption",
+    "genre": "Drama",
+    "rating": "R",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "release_year": 1994
+  },
+  {
+    "title": "Spirited Away",
+    "genre": "Animation, Adventure, Family",
+    "rating": "PG",
+    "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+    "release_year": 2001
+  },
+  {
+    "title": "Pulp Fiction",
+    "genre": "Crime, Drama",
+    "rating": "R",
+    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "release_year": 1994
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "genre": "Action, Adventure, Drama",
+    "rating": "PG-13",
+    "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "release_year": 2001
+  },
+  {
+    "title": "The Dark Knight",
+    "genre": "Action, Crime, Drama",
+    "rating": "PG-13",
+    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "release_year": 2008
+  }
+]
